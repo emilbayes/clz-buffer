@@ -1,6 +1,6 @@
 {
   "name": "clz-buffer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Count leading zeros in a Buffer (clz)",
   "main": "index.js",
   "dependencies": {},
