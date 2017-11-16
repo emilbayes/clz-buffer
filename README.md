@@ -1,5 +1,7 @@
 # `clz-buffer`
 
+[![Build Status](https://travis-ci.org/emilbayes/clz-buffer.svg?branch=master)](https://travis-ci.org/emilbayes/clz-buffer)
+
 > Count leading zeros in a Buffer (clz)
 
 ## Usage
